@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Baking Time</string>
+    <string name="ingredient_text">%s - %s , %s</string>
+    <string name="step_title">Step : %s</string>
+    <string name="widget_no_favorite_recipes">No favorite recipes selected</string>
+    <string name="cd_favorite_recipe_button">Image button to add a favorite recipe</string>
+    <string name="cd_thumbnail_image">Thumbnail image of a recipe step</string>
+    <string name="cd_step_video">Indicator image if a step video exists</string>
+    <string name="cd_recipe_image">Recipe Image</string>
+    <string name="how_to_cook_text">How to Cook??</string>
+    <string name="ingredients_text">INGREDIENTS :</string>
+
+</resources>
